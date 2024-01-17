@@ -17,6 +17,7 @@ int main()
     w.init();
     w.drawDecks();
     w.game();
+    ;
 
     return 0;
 }
