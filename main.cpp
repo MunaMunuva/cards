@@ -19,6 +19,7 @@ int main()
     w.game();
     ;
     cout << "hello from master";
+    cout << "hello from dev";
 
     return 0;
 }
