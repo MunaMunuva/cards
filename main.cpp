@@ -21,6 +21,7 @@ int main()
     ;
     cout << "hello from master :)";
     cout << "hello from dev";
+    cout << "2";
 
     return 0;
 }
