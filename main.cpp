@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    cout << "test";
+    cout << "test 1";
     srand(time(0));
 
     war w;
